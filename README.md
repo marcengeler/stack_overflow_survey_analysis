@@ -17,4 +17,7 @@ Also, the wage information can be taken from
 
 https://stats.oecd.org/Index.aspx?DataSetCode=AV_AN_WAGE
 
+## Libraries in Use
 
+This code relies on the capabilities of the pandas library only. All the functions rely on it's capabilities to manipulate data.
+matplotlib.pyplot is used for visualization but any other visualization tool can be used as well.
