@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>OECD.Stat</Author>
+  <Created>2019-05-29T09:58:02Z</Created>
+  <Company>OECD</Company>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>2664</WindowHeight>
+  <WindowWidth>18108</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Salaries">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="36" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="13.2">
+   <Column ss:Index="2" ss:Width="73.199999999999989"/>
+   <Row>
+    <Cell><Data ss:Type="String">Country</Data></Cell>
+    <Cell><Data ss:Type="String">Average Salary</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Australia</Data></Cell>
+    <Cell><Data ss:Type="Number">61620.416757156403</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Austria</Data></Cell>
+    <Cell><Data ss:Type="Number">48305.521229524304</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Belgium</Data></Cell>
+    <Cell><Data ss:Type="Number">49419.217989746699</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Canada</Data></Cell>
+    <Cell><Data ss:Type="Number">50032.728193230803</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Chile</Data></Cell>
+    <Cell><Data ss:Type="Number">18645.0562806491</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+    <Cell><Data ss:Type="Number">15373.7781110136</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Denmark</Data></Cell>
+    <Cell><Data ss:Type="Number">65673.507643789999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Estonia</Data></Cell>
+    <Cell><Data ss:Type="Number">17039.369624252799</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Finland</Data></Cell>
+    <Cell><Data ss:Type="Number">46771.879937897502</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">France</Data></Cell>
+    <Cell><Data ss:Type="Number">42409.789755223697</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Germany</Data></Cell>
+    <Cell><Data ss:Type="Number">44466.304645976699</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Greece</Data></Cell>
+    <Cell><Data ss:Type="Number">19542.374063106301</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Hungary</Data></Cell>
+    <Cell><Data ss:Type="Number">12506.458790599099</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Iceland</Data></Cell>
+    <Cell><Data ss:Type="Number">90661.520642620293</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ireland</Data></Cell>
+    <Cell><Data ss:Type="Number">53111.902702028601</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Israel</Data></Cell>
+    <Cell><Data ss:Type="Number">42377.958216542502</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Italy</Data></Cell>
+    <Cell><Data ss:Type="Number">32931.267038013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Japan</Data></Cell>
+    <Cell><Data ss:Type="Number">38234.221963156997</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Korea</Data></Cell>
+    <Cell><Data ss:Type="Number">31389.823949327299</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Latvia</Data></Cell>
+    <Cell><Data ss:Type="Number">15411.913913518099</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Lithuania</Data></Cell>
+    <Cell><Data ss:Type="Number">14189.196450102099</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Luxembourg</Data></Cell>
+    <Cell><Data ss:Type="Number">71710.217766116999</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Mexico</Data></Cell>
+    <Cell><Data ss:Type="Number">8592.5342401709004</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Netherlands</Data></Cell>
+    <Cell><Data ss:Type="Number">52705.387405100701</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">New Zealand</Data></Cell>
+    <Cell><Data ss:Type="Number">46917.282362067301</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Norway</Data></Cell>
+    <Cell><Data ss:Type="Number">65785.918367896098</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Poland</Data></Cell>
+    <Cell><Data ss:Type="Number">13430.5818091323</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Portugal</Data></Cell>
+    <Cell><Data ss:Type="Number">19209.9854217758</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Slovak Republic</Data></Cell>
+    <Cell><Data ss:Type="Number">14880.5241744293</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Slovenia</Data></Cell>
+    <Cell><Data ss:Type="Number">26712.682972875002</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Spain</Data></Cell>
+    <Cell><Data ss:Type="Number">31635.3557110236</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Sweden</Data></Cell>
+    <Cell><Data ss:Type="Number">47782.771539368201</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Switzerland</Data></Cell>
+    <Cell><Data ss:Type="Number">88159.099876640903</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">United Kingdom</Data></Cell>
+    <Cell><Data ss:Type="Number">45280.1034733013</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">United States</Data></Cell>
+    <Cell><Data ss:Type="Number">60558.358120239303</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

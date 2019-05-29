@@ -13,4 +13,8 @@ To use this analysis fork the repo and run the jupyter notebook file. All the re
 
 https://www.kaggle.com/stackoverflow/so-survey-2017
 
+Also, the wage information can be taken from
+
+https://stats.oecd.org/Index.aspx?DataSetCode=AV_AN_WAGE
+
 
